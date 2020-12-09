@@ -17,3 +17,7 @@ How to apply a userChrome: https://www.reddit.com/r/firefox/wiki/userchrome
 ## Screenshots
 
 ![Firefox with Rosé Pine](https://i.imgur.com/cY40jzK.png)
+
+## Thanks to 
+
+- [ThatOneCalculator](https://github.com/thatonecalculator)
