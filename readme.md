@@ -17,7 +17,7 @@ How to apply a userChrome: https://www.reddit.com/r/firefox/wiki/userchrome
 
 ***Pleast note***: once you get to the step of applying everything, just dump all of the contents of this into the `chrome` folder.
 
-## Screenshots
+## Gallery
 
 ![Firefox with Rosé Pine](https://i.imgur.com/cY40jzK.png)
 
