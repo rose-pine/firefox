@@ -11,11 +11,17 @@
     </a>
 </p>
 
-## Usage
+## Usage (pick one!)
+
+a. Using the attached files:
 
 How to apply a userChrome: https://www.reddit.com/r/firefox/wiki/userchrome
 
-***Pleast note***: once you get to the step of applying everything, just dump all of the contents of this into the `chrome` folder.
+***Please note***: once you get to the step of applying everything, just dump all of the contents of this into the `chrome` folder.
+
+b. Using Firefox Color
+
+Follow <a href ="https://color.firefox.com/?theme=XQAAAAI5AQAAAAAAAABBqYhm849SCia3ftKEGccwS-xMDPr6BEKkYVSt2yMiAsBLvzmxZf3j0v9IRknMzArcpsl645Ge7EzJvXkxnR-IdpUfjuoH0j2fU5z119YfdJkFCZr51wD39X1AG95aQjSf047Gsfg1eLa-yQmEuzaYNrnHf14SvHw9S9ScswXTOZbWwmf1JWZimp73kln7qUWzPieoSAtTvIDwhkRr5vkV64C__AmGY-AxWcyakIe52W5pGtApgkUs6ALkck1pV_hkqNGL_1AKpBx4S5Er4K37eTMX">this link</a> for Rose Pine Moon. You may need to install the Firefox Color extension - that should be handled by the browser.
 
 ## Gallery
 
