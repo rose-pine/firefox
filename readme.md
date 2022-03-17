@@ -15,7 +15,7 @@
 
 ### [Firefox Color](https://color.firefox.com)
 
-> May require the Firefox Color extension
+> May require the [Firefox Color extension](https://addons.mozilla.org/en-US/firefox/addon/firefox-color/)
 
 - Select a variant: [Rose Pine](https://color.firefox.com/?theme=XQAAAAI5AQAAAAAAAABBqYhm849SCia3ftKEGccwS-xMDPr3WmqH6mLhhyRv-nu52zZ2ZXxbsGmOEknLoZBVSFanWhsjezxhgdCrK27iduavSwvOOiigQih0UlOvLUeJzf6gowAriRj5ek5rgF5SiG4JPvtsgJ1eq9fw0_eEZmNr1Zj1VguLFF00GJz0a-D6Hhi1Pn_fwzSewGRwb4vUnL-u3xcUKKox7YSEl0Y3TdXzAClp03rbR4NvUyCt-Z-6ROJpFYfg_1k6fDqtmxHRDnoYvPCprWL_Zz64AA), [Rosé Pine Moon](https://color.firefox.com/?theme=XQAAAAI5AQAAAAAAAABBqYhm849SCia3ftKEGccwS-xMDPr6BEKkYVSt2yMiAsBLvzmxZf3j0v9IRknMzArcpsl645Ge7EzJvXkxnR-IdpUfjuoH0j2fU5z119YfdJkFCZr51wD39X1AG95aQjSf047Gsfg1eLa-yQmEuzaYNrnHf14SvHw9S9ScswXTOZbWwmf1JWZimp73kln7qUWzPieoSAtTvIDwhkRr5vkV64C__AmGY-AxWcyakIe52W5pGtApgkUs6ALkck1pV_hkqNGL_1AKpBx4S5Er4K37eTMX), or [Rosé Pine Dawn](https://color.firefox.com/?theme=XQAAAAI5AQAAAAAAAABBqYhm849SCia3ftKEGccwS-xMDPsqu_EyWr6BByTWHnbaXGjDuVxizU46ZcslNZYZnuZ-bn7fV1Ftktq4WM1goaIndglWMNES9uKguXCU_RExDvG_IA_bk-9FTbjH6ScZiAS_iaycdlAtttuHnyRg8Ay0oEm9rlNoJSXORoGQx5xGB1KTeVXkNz-F4dVFOXFZ57805Lp1cSX7DzEiTbASX9v_Et761J8f0Sk0QvIOGv2MbVxqX9qefABNs1znhKD_-PcLLw)
 
